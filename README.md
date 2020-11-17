@@ -1,7 +1,7 @@
 # Vehicle-performance-and-consumption
 * Electric and conventional powertrains models.
 
-* Methods to analyse their performance and energy consumption.
+* Methods to analyse their performance and consumption.
 
 <!--- ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/engine%20sizing%20options.PNG?raw=true)--->
 
