@@ -1,4 +1,4 @@
 # Vehicle-performance-and-consumption
-Electric and conventional powertrains models;
+Electric and conventional powertrains models.
 
-Methods to analyse their performance and energy consumption;
+Methods to analyse their performance and energy consumption.
