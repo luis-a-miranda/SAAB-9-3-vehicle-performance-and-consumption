@@ -3,7 +3,7 @@
 
 * Methods to analyse their performance and energy consumption.
 
-![GitHub Logo](/image/engine sizing options.PNG)
+![GitHub Logo](/engine sizing options.PNG)
 Format: ![Alt Text](url)
 
 
