@@ -5,13 +5,13 @@
 
 **SAAB 9-3 electric motor example**
 
-vehicle mass = 1650Kg
+vehicle mass = 1650 Kg
 
-Transmission 
-  . 1 gear with overall ratio of 3.5
-  . iddle loses = 300W
-  
-electric motor power = 155kW
+Wheel Diameter = 0.62 m
+
+Transmission - 1 gear with overall ratio of 3.5 and iddle loses equal to 300 W 
+
+electric motor power = 155 kW
 
 Battery - 100 cells in series and 3 parallel strings with 80% initial SoC
 
