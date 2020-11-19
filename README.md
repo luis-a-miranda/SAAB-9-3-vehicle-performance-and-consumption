@@ -5,6 +5,14 @@
 
 **SAAB 9-3 electric motor example**
 
+vehicle mass = 1650Kg
+Transmission 
+  . 1 gear with overall ratio of 3.5
+  . iddle loses = 300W
+electric motor power = 155kW
+Battery - 100 cells in series and 3 parallel strings with 80% initial SoC
+
+
 Simulink model:
 
 ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Model%20image.PNG?raw=true)
