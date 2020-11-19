@@ -3,15 +3,15 @@
 
 2. Analysis of performance and consumption
 
-**SAAB 9-3 electric motor scenario:**
-Simulink model            |  Operating Region
-:-------------------------:|:-------------------------:
-![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Model%20image.PNG?raw=true)  |  ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Operating%20region%20.jpg?raw=true)
-
 **SAAB 9-3 combustion engine scenario:**
 Simulink model            |  Operating Region
 :-------------------------:|:-------------------------:
 ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20combustion%20-%20Model%20image.PNG?raw=true)  |  ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20combustion%20-%20Operating%20region%20.jpg?raw=true)
+
+**SAAB 9-3 electric motor scenario:**
+Simulink model            |  Operating Region
+:-------------------------:|:-------------------------:
+![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Model%20image.PNG?raw=true)  |  ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Operating%20region%20.jpg?raw=true)
 
 
 Toolbox URL: https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Research_Onder/Downloads/qss.zip
