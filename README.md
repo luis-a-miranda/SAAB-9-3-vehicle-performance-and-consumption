@@ -16,11 +16,11 @@
 - Battery - 100 cells in series and 3 parallel strings with 80% initial SoC
 
 
-  - Simulink model:
+*Simulink model:*
 
 ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Model%20image.PNG?raw=true)
 
-  - Operating Region:
+*Operating Region:*
 
 ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Operating%20region%20.jpg?raw=true)
 
