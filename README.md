@@ -1,9 +1,12 @@
 # Vehicle-performance-and-consumption
 * Electric and conventional powertrains models.
 
-* Methods to analyse their performance and consumption.
+* Analysis of performance and consumption
 
-<!--- ![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/engine%20sizing%20options.PNG?raw=true)--->
+* SAAB 9-3 electric motor example:
+
+![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Model%20image.PNG?raw=true)
+![image](https://github.com/luis-a-miranda/Vehicle-performance-and-consumption/blob/main/SAAB%209-3%20analysis/SAAB93%20electric%20-%20Operating%20region%20.jpg?raw=true)
 
 
 Toolbox URL: https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Research_Onder/Downloads/qss.zip
