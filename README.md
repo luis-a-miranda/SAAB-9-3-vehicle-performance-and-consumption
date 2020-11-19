@@ -1,7 +1,7 @@
 # Vehicle-performance-and-consumption
 1. Electric and conventional powertrains models.
 
-2. Analysis of performance and consumption
+2. Analysis of performance and consumption.
 
 **SAAB 9-3 combustion engine scenario:** (click on the images to zoom in)
 Simulink model            |  Operating Region
