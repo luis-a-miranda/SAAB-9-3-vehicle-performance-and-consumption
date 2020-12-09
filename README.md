@@ -15,4 +15,5 @@ Simulink model            |  Operating Region
 
 
 Toolbox URL: https://ethz.ch/content/dam/ethz/special-interest/mavt/dynamic-systems-n-control/idsc-dam/Research_Onder/Downloads/qss.zip
+
 *Copyright (c) 2005 IMRT (Measurements and Control Laboratoy) ETH Zurich (Swiss Federal Institute of Technology Zurich)*
